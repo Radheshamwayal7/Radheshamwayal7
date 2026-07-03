@@ -1,6 +1,7 @@
-Heyy I'm Radhesham Wayal
+👋 Hii I'm Radhesham Wayal
+---
 
-💻 Java Developer | BCA Student | Aspiring Full Stack Developer
+💻 Java Developer | BCA Student | Full Stack Developer
 - 🎓 I'm a BCA student.
 - 🌱 Currently learning Java, SQL, and Web Development.
 - 💻 I enjoy building Java projects.
