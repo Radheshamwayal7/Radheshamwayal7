@@ -5,7 +5,8 @@
 - 🎓 I'm a BCA student.
 - 🌱 Currently learning Java, SQL, and Web Development.
 - 💻 I enjoy building Java projects.
-- 🚀 My goal is to become a Full Stack Developer.
+- 🎯 To become a skilled Java Developer by continuously learning, building real-world projects, and improving my problem-solving and software development skills.
+  
 - 📫 Reach me: shamwayal7@gmail.com
 
   "Code. Learn. Build. Repeat."
