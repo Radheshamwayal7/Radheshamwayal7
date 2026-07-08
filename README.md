@@ -1,13 +1,19 @@
-👋 Hii I'm Radhesham Wayal
+# 👋 Hi, I'm Radhesham Wayal
+
+Welcome to my GitHub! I'm a passionate Java developer and a BCA student who enjoys building projects, learning new technologies, and improving my problem-solving skills. I'm currently exploring Java, Data Structures & Algorithms (DSA), Git, GitHub, and Full Stack Development.
+
+I'm always eager to learn, create, and grow as a developer. Feel free to explore my repositories and follow my journey!
+
 ---
+💻 Aspiring Java Developer | ☕ Learning Java & DSA | 🚀 Building Real-World Projects | 📚 Passionate About Continuous Learning
 
-💻 Aspiring Java Developer | Learning Java & DSA | Building Projects | Passionate about Continuous Learning
 
-- 🎓 I'm a BCA student.
-- 🌱 Currently learning Java, SQL, and Web Development.
-- 💻 I enjoy building Java projects.
-- 🎯 To become a skilled Java Developer by continuously learning, building real-world projects, and improving my problem-solving and software development skills.
-  
+* 🎓 Pursuing a Bachelor's degree in Computer Applications (BCA).
+* ☕ Focused on learning Java, Data Structures & Algorithms (DSA), SQL, Git, GitHub, and Web Development.
+* 💻 Passionate about building projects that strengthen my programming and problem-solving skills.
+* 🚀 Always exploring new technologies and continuously improving as a developer.
+* 🎯 Working towards becoming a professional Java Developer by building real-world applications and writing clean, efficient code.
+
 - 📫 Reach me: shamwayal7@gmail.com
 
   "Code. Learn. Build. Repeat."
