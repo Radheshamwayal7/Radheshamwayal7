@@ -16,7 +16,7 @@ I'm always eager to learn, create, and grow as a developer. Feel free to explore
 
 - 📫 Reach me: shamwayal7@gmail.com
 
-  "Code. Learn. Build. Repeat."
+  "Learn. Build. Grow."
 
 💻 Tech Stack-
 
