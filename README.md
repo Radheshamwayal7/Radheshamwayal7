@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radheshyam Wayal
 
-Welcome to my GitHub! I'm a passionate Aspiring Full Stack Java developer and a BCA student who enjoys building projects, learning new technologies, and improving my problem-solving skills. I'm currently exploring Java, Data Structures & Algorithms (DSA), Git, GitHub, and Full Stack Development.
+Welcome to my GitHub! I'm a passionate Aspiring Full Stack Java developer and a BCA student who enjoys building projects, learning new technologies, and improving my problem-solving skills. I'm currently exploring Java, Data Structures & Algorithms (DSA), Git & GitHub, and Full Stack Development.
 
 I'm always eager to learn, create, and grow as a developer. Feel free to explore my repositories and follow my journey!!
 
