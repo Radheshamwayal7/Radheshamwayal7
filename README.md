@@ -28,7 +28,7 @@ I'm always eager to learn, create, and grow as a developer. Feel free to explore
 🧑‍💻 Git
 🐙 GitHub
 💻 VS Code
-🪟 Windows
+🪟 Windows.
 
 
  ## 🛠️ Tools & Technologies
