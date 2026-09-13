@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate Aspiring Java Full Stack developer and a 
 I'm always eager to learn, create, and grow as a developer. Feel free to explore my repositories and follow my journey!!
 
 ---
-💻 Java | Spring Boot | HTML | CSS | JavaScript | MySQL | 🚀 Building Full Stack Projects | Full Stack Java Developer
+💻 Java | Spring Boot | HTML | CSS | JavaScript | MySQL | 🚀 Building Full Stack Projects | Java Full Stack Developer
 
 
 * 🎓 Pursuing a Bachelor's degree in Computer Applications (BCA).
