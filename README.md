@@ -6,7 +6,7 @@ I'm always eager to learn, create, and grow as a developer. Feel free to explore
 
 ---
 
-Java | Spring Boot | HTML | CSS | JavaScript | MySQL | 🚀 Building Full Stack Projects | Java Full Stack Developer
+Java | Spring Boot | HTML | CSS | JavaScript | MySQL | Building Full Stack Projects | Java Full Stack Developer
 
 
 * 🎓 Pursuing a Bachelor's degree in Computer Applications (BCA).
